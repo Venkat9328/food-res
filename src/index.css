@@ -1,0 +1,42 @@
+body {
+  margin: 8px;
+  font-family: 'Cabin', sans-serif !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --main-color: #dc79d7;
+  --main-bg-color: #f0c4c4;
+}
+
+
+@media only screen and (max-width: 704px) {
+  .logo-buttons {
+    display: none;
+  }
+
+  nav {
+    justify-content: center !important;
+  }
+  #searchBar{
+    width: 68% !important;
+  }
+
+}
+
+@media only screen and (max-width: 570px) {
+  
+  .nav-logo {
+  flex-direction: column !important;
+  }
+
+  #searchBar{
+    width: 88% !important;
+  }
+ 
+
+}

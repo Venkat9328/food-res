@@ -1,0 +1,14 @@
+
+.img{
+    height: 87vh;
+    width: 55cm;
+    display: grid;
+  }
+  /*.carousel-item{
+    height: 100vh;
+    min-height: 100px;
+    width: 45cm;
+    background: no-repeat scroll center scroll;
+    -webkit-background-size:center;
+    background-size: cover;
+  }*/
