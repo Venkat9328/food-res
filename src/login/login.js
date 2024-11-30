@@ -77,7 +77,7 @@ export default function Signup() {
           className="float-start"
           src="https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=600"
         />
-
+  
         <div className="float-end Auth-form-content">
           <h2 className="mt-5" id="tit2">
             <b>
